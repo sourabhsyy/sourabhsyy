@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Building data-driven projects like fraud detection systems and financial reconciliation tools using Python and machine learning.<br>🤝Data analysis, machine learning projects, and real-world problem-solving applications<br>🧠Improving my SQL skills and gaining industry-level experience in data analytics and backend development.<br>📚 Advanced data analysis, machine learning techniques, and backend development using Python.<br>Python, data analysis, machine learning basics, and building real-world projects using Streamlit.<br>⚡I enjoy solving real-world problems using data and turning complex datasets into meaningful insights.
+🛠️ Building data-driven projects like fraud detection systems and financial reconciliation tools using Python and machine learning.<br>🤝Data analysis, machine learning projects, and real-world problem-solving applications<br>🧠Improving my SQL skills and gaining industry-level experience in data analytics and backend development.<br>📚 Advanced data analysis, machine learning techniques, and backend development using Python.<br>🛠️ Python, data analysis, machine learning basics, and building real-world projects using Streamlit.<br>⚡I enjoy solving real-world problems using data and turning complex datasets into meaningful insights.
 
 
 ## 🌐 Socials:
